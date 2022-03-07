@@ -1,9 +1,8 @@
 ### Hi there 👋
-
+![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
  <div>
   <a href="https://www.linkedin.com/in/demetrius-segundo-b25a7319a/">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DemetriusADS&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DemetriusADS&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
 <div style="display: inline_block"><br>
